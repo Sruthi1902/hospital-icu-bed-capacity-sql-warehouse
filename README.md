@@ -43,3 +43,9 @@ Built a scalable, query-optimized **star schema data warehouse** in MySQL to ana
 - **Census data** revealed usage concentration in major metro hospitals.
 - **Staffing gaps** highlight a need for better resource allocation even in facilities with high licensing capacity.
 
+---
+
+## 👩‍💻 Author
+**Sruthi Kondra**  
+🎓 Master’s in Analytics – Northeastern University  
+🔗 [LinkedIn](https://www.linkedin.com/in/sruthi-kondra-5773981a1)
